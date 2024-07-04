@@ -1,0 +1,11 @@
+---
+problem_id: P23001_en
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2021-10-21 10:41:32"
+time_out: "2021-10-21 10:41:40"
+veredict: AC
+veredict_info: ~
+title: Consecutive repeated words
+...

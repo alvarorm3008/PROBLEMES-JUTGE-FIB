@@ -1,0 +1,11 @@
+---
+problem_id: P88905_en
+submission_id: S002
+compiler_id: P1++
+annotation: ~
+time_in: "2021-12-11 03:52:30"
+time_out: "2021-12-11 03:52:39"
+veredict: EE
+veredict_info: time limit exceeded
+title: Products of matrices
+...

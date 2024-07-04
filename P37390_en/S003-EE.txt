@@ -1,0 +1,11 @@
+---
+problem_id: P37390_en
+submission_id: S003
+compiler_id: P1++
+annotation: ~
+time_in: "2021-12-11 03:54:37"
+time_out: "2021-12-11 03:54:44"
+veredict: EE
+veredict_info: time limit exceeded
+title: Product of square matrices
+...

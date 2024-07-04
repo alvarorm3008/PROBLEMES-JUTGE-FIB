@@ -1,0 +1,11 @@
+---
+problem_id: P98259_ca
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2023-06-05 20:52:31"
+time_out: "2023-06-05 20:52:41"
+veredict: WA
+veredict_info: ~
+title: Buscant el telecos
+...

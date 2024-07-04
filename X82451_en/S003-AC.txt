@@ -1,0 +1,11 @@
+---
+problem_id: X82451_en
+submission_id: S003
+compiler_id: P1++
+annotation: ~
+time_in: "2022-06-10 14:49:22"
+time_out: "2022-06-10 14:49:30"
+veredict: AC
+veredict_info: ~
+title: Point inside a rectangle
+...

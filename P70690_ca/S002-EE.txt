@@ -1,0 +1,11 @@
+---
+problem_id: P70690_ca
+submission_id: S002
+compiler_id: G++11
+annotation: ~
+time_in: "2023-05-20 22:37:17"
+time_out: "2023-05-20 22:37:24"
+veredict: EE
+veredict_info: time limit exceeded
+title: Tresors en un mapa (1)
+...

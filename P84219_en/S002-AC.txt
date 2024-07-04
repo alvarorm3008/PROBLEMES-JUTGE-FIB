@@ -1,0 +1,11 @@
+---
+problem_id: P84219_en
+submission_id: S002
+compiler_id: G++11
+annotation: ~
+time_in: "2023-03-14 18:27:41"
+time_out: "2023-03-14 18:28:01"
+veredict: AC
+veredict_info: ~
+title: First occurrence
+...

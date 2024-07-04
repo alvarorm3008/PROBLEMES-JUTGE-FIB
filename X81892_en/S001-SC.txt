@@ -1,0 +1,11 @@
+---
+problem_id: X81892_en
+submission_id: S001
+compiler_id: Quiz
+annotation: ~
+time_in: "2021-09-13 23:04:20"
+time_out: "2021-09-15 12:04:27"
+veredict: SC
+veredict_info: ~
+title: C++ Expression Evaluation Quiz
+...

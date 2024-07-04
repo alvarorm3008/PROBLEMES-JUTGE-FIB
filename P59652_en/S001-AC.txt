@@ -1,0 +1,11 @@
+---
+problem_id: P59652_en
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2021-11-24 17:39:44"
+time_out: "2021-11-24 17:39:51"
+veredict: AC
+veredict_info: ~
+title: Read a rational number (1)
+...

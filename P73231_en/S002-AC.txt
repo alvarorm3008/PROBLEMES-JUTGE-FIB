@@ -1,0 +1,11 @@
+---
+problem_id: P73231_en
+submission_id: S002
+compiler_id: P1++
+annotation: ~
+time_in: "2021-11-17 01:14:12"
+time_out: "2021-11-17 01:14:19"
+veredict: AC
+veredict_info: ~
+title: Maximum of four integer numbers
+...

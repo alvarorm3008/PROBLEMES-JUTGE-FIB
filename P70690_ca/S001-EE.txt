@@ -1,0 +1,11 @@
+---
+problem_id: P70690_ca
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2023-05-20 22:35:13"
+time_out: "2023-05-20 22:35:22"
+veredict: EE
+veredict_info: invalid memory reference
+title: Tresors en un mapa (1)
+...

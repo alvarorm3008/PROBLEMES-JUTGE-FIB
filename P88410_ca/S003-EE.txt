@@ -1,0 +1,11 @@
+---
+problem_id: P88410_ca
+submission_id: S003
+compiler_id: G++11
+annotation: ~
+time_in: "2023-06-07 17:28:44"
+time_out: "2023-06-07 17:29:05"
+veredict: EE
+veredict_info: time limit exceeded
+title: Rosers i testos (1)
+...

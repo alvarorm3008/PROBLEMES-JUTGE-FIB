@@ -1,0 +1,11 @@
+---
+problem_id: P28318_en
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2021-12-10 18:24:47"
+time_out: "2021-12-10 18:24:55"
+veredict: AC
+veredict_info: ~
+title: Rows and columns
+...

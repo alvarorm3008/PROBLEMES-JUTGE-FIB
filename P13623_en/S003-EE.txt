@@ -1,0 +1,11 @@
+---
+problem_id: P13623_en
+submission_id: S003
+compiler_id: P1++
+annotation: ~
+time_in: "2021-10-14 10:51:11"
+time_out: "2021-10-14 10:51:18"
+veredict: EE
+veredict_info: output limit exceeded
+title: Chess board (2)
+...

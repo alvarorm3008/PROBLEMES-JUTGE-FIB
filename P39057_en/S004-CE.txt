@@ -1,0 +1,11 @@
+---
+problem_id: P39057_en
+submission_id: S004
+compiler_id: P1++
+annotation: ~
+time_in: "2022-02-25 21:53:34"
+time_out: "2022-02-25 21:53:40"
+veredict: CE
+veredict_info: ~
+title: Computing areas
+...

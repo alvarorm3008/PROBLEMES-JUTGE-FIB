@@ -1,0 +1,11 @@
+---
+problem_id: P12509_en
+submission_id: S003
+compiler_id: P1++
+annotation: ~
+time_in: "2022-05-02 10:41:17"
+time_out: "2022-05-02 10:41:24"
+veredict: AC
+veredict_info: ~
+title: recursive factorial
+...

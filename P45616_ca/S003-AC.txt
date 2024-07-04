@@ -1,0 +1,11 @@
+---
+problem_id: P45616_ca
+submission_id: S003
+compiler_id: P1++
+annotation: ~
+time_in: "2022-06-10 14:52:45"
+time_out: "2022-06-10 14:52:51"
+veredict: AC
+veredict_info: ~
+title: Rellotge
+...

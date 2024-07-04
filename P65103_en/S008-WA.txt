@@ -1,0 +1,11 @@
+---
+problem_id: P65103_en
+submission_id: S008
+compiler_id: P1++
+annotation: ~
+time_in: "2021-10-22 12:49:02"
+time_out: "2021-10-22 12:49:10"
+veredict: WA
+veredict_info: ~
+title: I-th (3)
+...

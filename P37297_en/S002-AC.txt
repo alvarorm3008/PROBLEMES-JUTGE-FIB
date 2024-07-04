@@ -1,0 +1,11 @@
+---
+problem_id: P37297_en
+submission_id: S002
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-09-30 00:47:34"
+time_out: "2021-09-30 00:47:42"
+veredict: AC
+veredict_info: ~
+title: Control C101A
+...

@@ -1,0 +1,11 @@
+---
+problem_id: P89336_en
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2021-11-25 11:02:02"
+time_out: "2021-11-25 11:02:07"
+veredict: WA
+veredict_info: ~
+title: Reversing a list of words (6)
+...

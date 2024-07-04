@@ -1,0 +1,11 @@
+---
+problem_id: P81104_ca
+submission_id: S002
+compiler_id: P1++
+annotation: ~
+time_in: "2022-06-10 14:48:47"
+time_out: "2022-06-10 14:48:54"
+veredict: AC
+veredict_info: ~
+title: F001A. Alumnes de la FIPS
+...

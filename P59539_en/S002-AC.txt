@@ -1,0 +1,11 @@
+---
+problem_id: P59539_en
+submission_id: S002
+compiler_id: P1++
+annotation: ~
+time_in: "2022-02-25 21:37:32"
+time_out: "2022-02-25 21:37:40"
+veredict: AC
+veredict_info: ~
+title: Harmonic numbers (1)
+...

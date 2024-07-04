@@ -1,0 +1,11 @@
+---
+problem_id: P57474_en
+submission_id: S003
+compiler_id: P1++
+annotation: ~
+time_in: "2021-11-18 13:09:27"
+time_out: "2021-11-18 13:09:34"
+veredict: AC
+veredict_info: ~
+title: Iterative factorial
+...

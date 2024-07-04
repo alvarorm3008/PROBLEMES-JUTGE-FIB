@@ -1,0 +1,11 @@
+---
+problem_id: P38614_en
+submission_id: S003
+compiler_id: P1++
+annotation: ~
+time_in: "2021-10-08 01:33:13"
+time_out: "2021-10-08 01:33:23"
+veredict: AC
+veredict_info: ~
+title: Control C201A
+...

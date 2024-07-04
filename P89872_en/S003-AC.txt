@@ -1,0 +1,11 @@
+---
+problem_id: P89872_en
+submission_id: S003
+compiler_id: P1++
+annotation: ~
+time_in: "2021-10-28 10:57:47"
+time_out: "2021-10-28 10:57:56"
+veredict: AC
+veredict_info: ~
+title: Second maximum word
+...

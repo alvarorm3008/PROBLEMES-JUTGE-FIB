@@ -1,0 +1,11 @@
+---
+problem_id: P99182_es
+submission_id: S006
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-09-15 11:54:40"
+time_out: "2021-09-15 11:54:47"
+veredict: AC
+veredict_info: ~
+title: Promedio
+...

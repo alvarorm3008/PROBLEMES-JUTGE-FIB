@@ -1,0 +1,11 @@
+---
+problem_id: P34279_en
+submission_id: S003
+compiler_id: P1++
+annotation: ~
+time_in: "2022-02-20 00:10:40"
+time_out: "2022-02-20 00:10:53"
+veredict: AC
+veredict_info: ~
+title: Add one second
+...

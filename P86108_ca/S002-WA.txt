@@ -1,0 +1,11 @@
+---
+problem_id: P86108_ca
+submission_id: S002
+compiler_id: G++11
+annotation: ~
+time_in: "2023-05-30 15:32:21"
+time_out: "2023-05-30 15:32:29"
+veredict: WA
+veredict_info: ~
+title: LOL
+...

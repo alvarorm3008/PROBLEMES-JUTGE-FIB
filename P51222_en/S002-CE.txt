@@ -1,0 +1,11 @@
+---
+problem_id: P51222_en
+submission_id: S002
+compiler_id: P1++
+annotation: ~
+time_in: "2022-05-02 10:45:44"
+time_out: "2022-05-02 10:45:51"
+veredict: CE
+veredict_info: ~
+title: Recursive number of digits
+...

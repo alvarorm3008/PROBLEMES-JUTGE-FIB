@@ -1,0 +1,11 @@
+---
+problem_id: P12887_en
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2023-06-05 21:32:47"
+time_out: "2023-06-05 21:32:55"
+veredict: AC
+veredict_info: ~
+title: Minimum spanning trees
+...

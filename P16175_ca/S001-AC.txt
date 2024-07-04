@@ -1,0 +1,11 @@
+---
+problem_id: P16175_ca
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2022-01-11 16:52:04"
+time_out: "2022-01-11 16:52:11"
+veredict: AC
+veredict_info: ~
+title: F002B. Vectors comprimits
+...

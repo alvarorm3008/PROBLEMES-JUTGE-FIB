@@ -1,0 +1,11 @@
+---
+problem_id: P33839_en
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2021-10-10 10:59:38"
+time_out: "2021-10-10 10:59:49"
+veredict: WA
+veredict_info: ~
+title: Sum of digits
+...

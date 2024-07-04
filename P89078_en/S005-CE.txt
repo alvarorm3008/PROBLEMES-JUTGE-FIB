@@ -1,0 +1,11 @@
+---
+problem_id: P89078_en
+submission_id: S005
+compiler_id: P1++
+annotation: ~
+time_in: "2022-03-19 23:43:53"
+time_out: "2022-03-19 23:43:59"
+veredict: CE
+veredict_info: ~
+title: First position
+...

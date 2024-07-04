@@ -1,0 +1,11 @@
+---
+problem_id: P27152_en
+submission_id: S002
+compiler_id: P1++
+annotation: ~
+time_in: "2021-12-12 03:56:14"
+time_out: "2021-12-12 03:56:23"
+veredict: AC
+veredict_info: ~
+title: The value of the letters
+...

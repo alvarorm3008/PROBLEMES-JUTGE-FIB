@@ -1,0 +1,11 @@
+---
+problem_id: P67329_ca
+submission_id: S002
+compiler_id: G++11
+annotation: ~
+time_in: "2023-06-06 20:42:44"
+time_out: "2023-06-06 20:42:52"
+veredict: EE
+veredict_info: time limit exceeded
+title: ADN
+...

@@ -1,0 +1,11 @@
+---
+problem_id: P29094_ca
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2022-01-11 18:23:51"
+time_out: "2022-01-11 18:23:58"
+veredict: AC
+veredict_info: ~
+title: "Posici\xF3 del m\xE0xim"
+...

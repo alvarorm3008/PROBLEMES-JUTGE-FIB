@@ -1,0 +1,11 @@
+---
+problem_id: P35537_en
+submission_id: S002
+compiler_id: P1++
+annotation: ~
+time_in: "2021-11-23 16:18:27"
+time_out: "2021-11-23 16:18:34"
+veredict: AC
+veredict_info: ~
+title: Increasing numbers
+...

@@ -1,0 +1,11 @@
+---
+problem_id: X34137_ca
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2023-06-01 20:37:04"
+time_out: "2023-06-01 20:37:12"
+veredict: AC
+veredict_info: ~
+title: "V\xE8rtexs intermedis"
+...

@@ -1,0 +1,11 @@
+---
+problem_id: P58153_en
+submission_id: S002
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-10-15 02:25:28"
+time_out: "2021-10-15 02:25:35"
+veredict: EE
+veredict_info: time limit exceeded
+title: Harmonic numbers (2)
+...

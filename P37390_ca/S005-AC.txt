@@ -1,0 +1,11 @@
+---
+problem_id: P37390_ca
+submission_id: S005
+compiler_id: P1++
+annotation: ~
+time_in: "2022-01-08 16:27:58"
+time_out: "2022-01-08 16:28:05"
+veredict: AC
+veredict_info: ~
+title: Productes de matrius quadrades
+...

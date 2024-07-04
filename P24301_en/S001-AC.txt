@@ -1,0 +1,11 @@
+---
+problem_id: P24301_en
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2021-12-09 12:28:12"
+time_out: "2021-12-09 12:28:19"
+veredict: AC
+veredict_info: ~
+title: Concatenation of vectors
+...

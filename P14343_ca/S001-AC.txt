@@ -1,0 +1,11 @@
+---
+problem_id: P14343_ca
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2022-01-11 02:07:00"
+time_out: "2022-01-11 02:07:09"
+veredict: AC
+veredict_info: ~
+title: Jutge (1)
+...

@@ -1,0 +1,11 @@
+---
+problem_id: P85696_ca
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2022-01-10 18:29:31"
+time_out: "2022-01-10 18:29:37"
+veredict: AC
+veredict_info: ~
+title: Racionals (1)
+...

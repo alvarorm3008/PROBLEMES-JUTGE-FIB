@@ -1,0 +1,11 @@
+---
+problem_id: P28318_en
+submission_id: S002
+compiler_id: P1++
+annotation: ~
+time_in: "2022-05-27 18:08:22"
+time_out: "2022-05-27 18:08:30"
+veredict: AC
+veredict_info: ~
+title: Rows and columns
+...

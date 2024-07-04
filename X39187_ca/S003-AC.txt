@@ -1,0 +1,11 @@
+---
+problem_id: X39187_ca
+submission_id: S003
+compiler_id: G++11
+annotation: ~
+time_in: "2023-06-06 22:16:34"
+time_out: "2023-06-06 22:16:42"
+veredict: AC
+veredict_info: ~
+title: Comprant accions
+...

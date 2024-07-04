@@ -1,0 +1,11 @@
+---
+problem_id: P38045_en
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2021-11-16 17:59:40"
+time_out: "2021-11-16 17:59:49"
+veredict: AC
+veredict_info: ~
+title: Computing square roots and squares
+...

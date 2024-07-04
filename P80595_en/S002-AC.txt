@@ -1,0 +1,11 @@
+---
+problem_id: P80595_en
+submission_id: S002
+compiler_id: G++11
+annotation: ~
+time_in: "2023-03-14 18:24:40"
+time_out: "2023-03-14 18:24:48"
+veredict: AC
+veredict_info: ~
+title: How many inversions?
+...

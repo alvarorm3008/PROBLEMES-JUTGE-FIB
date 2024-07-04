@@ -1,0 +1,11 @@
+---
+problem_id: P60219_en
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2023-02-28 18:25:24"
+time_out: "2023-02-28 18:25:32"
+veredict: CE
+veredict_info: ~
+title: Easy game?
+...

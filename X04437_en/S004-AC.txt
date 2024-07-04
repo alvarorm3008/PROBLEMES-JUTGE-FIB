@@ -1,0 +1,11 @@
+---
+problem_id: X04437_en
+submission_id: S004
+compiler_id: P1++
+annotation: ~
+time_in: "2021-11-16 22:53:18"
+time_out: "2021-11-16 22:53:28"
+veredict: AC
+veredict_info: ~
+title: Distancia al origen
+...

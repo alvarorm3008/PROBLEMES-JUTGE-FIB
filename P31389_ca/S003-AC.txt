@@ -1,0 +1,11 @@
+---
+problem_id: P31389_ca
+submission_id: S003
+compiler_id: G++11
+annotation: ~
+time_in: "2023-06-03 12:57:06"
+time_out: "2023-06-03 12:57:17"
+veredict: AC
+veredict_info: ~
+title: Torres dins d'un rectangle
+...

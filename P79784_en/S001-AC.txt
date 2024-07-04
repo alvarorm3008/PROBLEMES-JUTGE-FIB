@@ -1,0 +1,11 @@
+---
+problem_id: P79784_en
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2021-10-19 16:36:35"
+time_out: "2021-10-19 16:36:43"
+veredict: AC
+veredict_info: ~
+title: Movements on the ground
+...

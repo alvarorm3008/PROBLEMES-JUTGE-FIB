@@ -1,0 +1,11 @@
+---
+problem_id: P30170_ca
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2022-01-11 18:01:50"
+time_out: "2022-01-11 18:02:00"
+veredict: AC
+veredict_info: ~
+title: Paraules repetides
+...

@@ -1,0 +1,11 @@
+---
+problem_id: X57029_ca
+submission_id: S003
+compiler_id: G++11
+annotation: ~
+time_in: "2023-06-06 22:44:46"
+time_out: "2023-06-06 22:44:54"
+veredict: AC
+veredict_info: ~
+title: Pujades i baixades
+...

@@ -1,0 +1,11 @@
+---
+problem_id: P59875_en
+submission_id: S004
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-09-28 17:42:03"
+time_out: "2021-09-28 17:42:17"
+veredict: WA
+veredict_info: ~
+title: Top to bottom
+...

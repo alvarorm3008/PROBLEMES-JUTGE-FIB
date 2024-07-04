@@ -1,0 +1,11 @@
+---
+problem_id: P75149_en
+submission_id: S003
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-10-19 16:15:00"
+time_out: "2021-10-19 16:15:09"
+veredict: AC
+veredict_info: ~
+title: Looking for an a
+...

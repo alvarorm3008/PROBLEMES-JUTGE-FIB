@@ -1,0 +1,11 @@
+---
+problem_id: P12675_en
+submission_id: S003
+compiler_id: P1++
+annotation: ~
+time_in: "2022-05-17 19:10:06"
+time_out: "2022-05-17 19:10:13"
+veredict: AC
+veredict_info: ~
+title: Common elements
+...

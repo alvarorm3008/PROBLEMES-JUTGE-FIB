@@ -1,0 +1,11 @@
+---
+problem_id: P58153_en
+submission_id: S006
+compiler_id: P1++
+annotation: ~
+time_in: "2022-03-15 11:07:37"
+time_out: "2022-03-15 11:07:44"
+veredict: EE
+veredict_info: time limit exceeded
+title: Harmonic numbers (2)
+...

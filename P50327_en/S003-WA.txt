@@ -1,0 +1,11 @@
+---
+problem_id: P50327_en
+submission_id: S003
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-10-05 15:34:10"
+time_out: "2021-10-05 15:34:19"
+veredict: WA
+veredict_info: ~
+title: Reversed number
+...

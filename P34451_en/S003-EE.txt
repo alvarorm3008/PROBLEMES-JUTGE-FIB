@@ -1,0 +1,11 @@
+---
+problem_id: P34451_en
+submission_id: S003
+compiler_id: P1++
+annotation: ~
+time_in: "2021-10-08 00:26:21"
+time_out: "2021-10-08 00:26:28"
+veredict: EE
+veredict_info: floating point exception
+title: Control C201C
+...

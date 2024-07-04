@@ -1,0 +1,11 @@
+---
+problem_id: P67454_en
+submission_id: S001
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-10-19 15:29:43"
+time_out: "2021-10-19 15:29:54"
+veredict: AC
+veredict_info: ~
+title: Counting a's (2)
+...

@@ -1,0 +1,11 @@
+---
+problem_id: P79784_en
+submission_id: S002
+compiler_id: P1++
+annotation: ~
+time_in: "2022-03-20 16:42:50"
+time_out: "2022-03-20 16:42:57"
+veredict: AC
+veredict_info: ~
+title: Movements on the ground
+...

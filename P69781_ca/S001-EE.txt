@@ -1,0 +1,11 @@
+---
+problem_id: P69781_ca
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2023-03-23 15:26:34"
+time_out: "2023-03-23 15:26:43"
+veredict: EE
+veredict_info: invalid memory reference
+title: "Pseudo-seq\xFC\xE8ncies de Collatz (2)"
+...

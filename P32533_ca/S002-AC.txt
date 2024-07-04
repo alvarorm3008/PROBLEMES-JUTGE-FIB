@@ -1,0 +1,11 @@
+---
+problem_id: P32533_ca
+submission_id: S002
+compiler_id: P1++
+annotation: ~
+time_in: "2022-03-15 10:45:25"
+time_out: "2022-03-15 10:45:31"
+veredict: AC
+veredict_info: ~
+title: Control C202E
+...

@@ -1,0 +1,11 @@
+---
+problem_id: P27341_ca
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2021-10-08 03:12:37"
+time_out: "2021-10-08 03:12:45"
+veredict: AC
+veredict_info: ~
+title: Control C202D
+...

@@ -1,0 +1,11 @@
+---
+problem_id: P71398_ca
+submission_id: S002
+compiler_id: P1++
+annotation: ~
+time_in: "2022-05-02 11:02:33"
+time_out: "2022-05-02 11:02:39"
+veredict: AC
+veredict_info: ~
+title: "Procediment per al d\xEDgit m\xE0xim i m\xEDnim"
+...

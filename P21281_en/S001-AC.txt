@@ -1,0 +1,11 @@
+---
+problem_id: P21281_en
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2021-11-24 17:33:43"
+time_out: "2021-11-24 17:33:50"
+veredict: AC
+veredict_info: ~
+title: Most frequent factor
+...

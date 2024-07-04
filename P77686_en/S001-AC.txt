@@ -1,0 +1,11 @@
+---
+problem_id: P77686_en
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2021-11-18 20:38:41"
+time_out: "2021-11-18 20:38:48"
+veredict: AC
+veredict_info: ~
+title: Palindromic numbers
+...

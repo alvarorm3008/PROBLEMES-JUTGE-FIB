@@ -1,0 +1,11 @@
+---
+problem_id: P58153_en
+submission_id: S004
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-10-15 02:36:18"
+time_out: "2021-10-15 02:36:25"
+veredict: AC
+veredict_info: ~
+title: Harmonic numbers (2)
+...

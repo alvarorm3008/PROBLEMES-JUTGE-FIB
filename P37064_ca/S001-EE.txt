@@ -1,0 +1,11 @@
+---
+problem_id: P37064_ca
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2023-03-27 18:26:06"
+time_out: "2023-03-27 18:26:14"
+veredict: EE
+veredict_info: invalid memory reference
+title: "Mediana din\xE0mica"
+...

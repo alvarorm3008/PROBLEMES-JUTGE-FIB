@@ -1,0 +1,11 @@
+---
+problem_id: P42280_en
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2021-10-15 00:08:14"
+time_out: "2021-10-15 00:08:21"
+veredict: AC
+veredict_info: ~
+title: Chess board (1)
+...

@@ -1,0 +1,11 @@
+---
+problem_id: P63414_en
+submission_id: S004
+compiler_id: P1++
+annotation: ~
+time_in: "2022-05-17 19:05:35"
+time_out: "2022-05-17 19:05:43"
+veredict: AC
+veredict_info: ~
+title: Counting frequences
+...

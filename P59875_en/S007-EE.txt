@@ -1,0 +1,11 @@
+---
+problem_id: P59875_en
+submission_id: S007
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-09-29 13:21:38"
+time_out: "2021-09-29 13:21:50"
+veredict: EE
+veredict_info: time limit exceeded
+title: Top to bottom
+...

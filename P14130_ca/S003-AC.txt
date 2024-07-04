@@ -1,0 +1,11 @@
+---
+problem_id: P14130_ca
+submission_id: S003
+compiler_id: P1++
+annotation: ~
+time_in: "2022-05-17 18:11:47"
+time_out: "2022-05-17 18:11:56"
+veredict: AC
+veredict_info: ~
+title: "Igual a l'\xFAltim"
+...

@@ -1,0 +1,11 @@
+---
+problem_id: X13208_ca
+submission_id: S002
+compiler_id: G++11
+annotation: ~
+time_in: "2023-06-02 18:39:51"
+time_out: "2023-06-02 18:40:01"
+veredict: AC
+veredict_info: ~
+title: "Cam\xED en un tauler"
+...

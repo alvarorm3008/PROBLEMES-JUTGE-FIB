@@ -1,0 +1,11 @@
+---
+problem_id: P90615_en
+submission_id: S012
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-09-24 18:25:44"
+time_out: "2021-09-24 18:25:53"
+veredict: AC
+veredict_info: ~
+title: Maximum of three integer numbers
+...

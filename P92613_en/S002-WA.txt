@@ -1,0 +1,11 @@
+---
+problem_id: P92613_en
+submission_id: S002
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-09-21 17:49:22"
+time_out: "2021-09-21 17:49:31"
+veredict: WA
+veredict_info: ~
+title: Rounding
+...

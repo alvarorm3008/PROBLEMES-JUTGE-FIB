@@ -1,0 +1,11 @@
+---
+problem_id: P31111_en
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2021-10-19 17:13:41"
+time_out: "2021-10-19 17:13:50"
+veredict: EE
+veredict_info: time limit exceeded
+title: Parentheses
+...

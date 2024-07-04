@@ -1,0 +1,11 @@
+---
+problem_id: X59091_en
+submission_id: S002
+compiler_id: P1++
+annotation: ~
+time_in: "2021-10-15 16:34:47"
+time_out: "2021-10-15 16:34:56"
+veredict: AC
+veredict_info: ~
+title: Rectangles (2)
+...

@@ -1,0 +1,11 @@
+---
+problem_id: P51352_es
+submission_id: S003
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-09-27 13:06:12"
+time_out: "2021-09-27 13:06:21"
+veredict: PE
+veredict_info: ~
+title: Elementos
+...

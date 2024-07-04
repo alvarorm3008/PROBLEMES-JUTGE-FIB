@@ -1,0 +1,11 @@
+---
+problem_id: P96589_en
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2021-11-07 18:58:02"
+time_out: "2021-11-07 18:58:11"
+veredict: WA
+veredict_info: ~
+title: Control C101C
+...

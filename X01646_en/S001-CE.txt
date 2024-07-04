@@ -1,0 +1,11 @@
+---
+problem_id: X01646_en
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2021-10-15 02:01:32"
+time_out: "2021-10-15 02:01:39"
+veredict: CE
+veredict_info: ~
+title: Sum of digits (2)
+...

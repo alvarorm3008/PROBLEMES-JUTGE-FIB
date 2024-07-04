@@ -1,0 +1,11 @@
+---
+problem_id: P89407_en
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2021-12-03 15:55:56"
+time_out: "2021-12-03 15:56:03"
+veredict: AC
+veredict_info: ~
+title: F004B. Stable products
+...

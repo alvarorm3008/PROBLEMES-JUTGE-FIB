@@ -1,0 +1,11 @@
+---
+problem_id: P55622_en
+submission_id: S005
+compiler_id: P1++
+annotation: ~
+time_in: "2022-02-25 21:44:52"
+time_out: "2022-02-25 21:44:59"
+veredict: WA
+veredict_info: ~
+title: Number of digits (1)
+...

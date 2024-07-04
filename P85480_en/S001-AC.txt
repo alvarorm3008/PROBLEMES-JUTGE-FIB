@@ -1,0 +1,11 @@
+---
+problem_id: P85480_en
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2021-12-02 10:31:30"
+time_out: "2021-12-02 10:31:37"
+veredict: AC
+veredict_info: ~
+title: Pairs of a sequence (1)
+...

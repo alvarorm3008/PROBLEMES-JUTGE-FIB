@@ -1,0 +1,11 @@
+---
+problem_id: P51352_es
+submission_id: S005
+compiler_id: P1++
+annotation: ~
+time_in: "2022-02-20 00:11:50"
+time_out: "2022-02-20 00:11:57"
+veredict: AC
+veredict_info: ~
+title: Elementos
+...

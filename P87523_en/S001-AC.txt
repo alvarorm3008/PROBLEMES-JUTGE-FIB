@@ -1,0 +1,11 @@
+---
+problem_id: P87523_en
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2021-11-17 00:32:07"
+time_out: "2021-11-17 00:32:13"
+veredict: AC
+veredict_info: ~
+title: Hello-bye
+...

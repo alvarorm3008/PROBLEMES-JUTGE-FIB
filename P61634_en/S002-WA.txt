@@ -1,0 +1,11 @@
+---
+problem_id: P61634_en
+submission_id: S002
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-09-27 13:47:23"
+time_out: "2021-09-27 13:47:32"
+veredict: WA
+veredict_info: ~
+title: Leap years
+...

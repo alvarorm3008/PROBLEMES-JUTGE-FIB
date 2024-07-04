@@ -1,0 +1,11 @@
+---
+problem_id: P32575_en
+submission_id: S006
+compiler_id: G++11
+annotation: ~
+time_in: "2023-05-08 18:46:54"
+time_out: "2023-05-08 18:47:24"
+veredict: AC
+veredict_info: ~
+title: Mad_Max_Revisited
+...

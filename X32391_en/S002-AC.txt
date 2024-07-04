@@ -1,0 +1,11 @@
+---
+problem_id: X32391_en
+submission_id: S002
+compiler_id: P1++
+annotation: ~
+time_in: "2022-02-25 21:58:36"
+time_out: "2022-02-25 21:58:42"
+veredict: AC
+veredict_info: ~
+title: Allowance (2)
+...

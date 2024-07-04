@@ -1,0 +1,11 @@
+---
+problem_id: P46254_ca
+submission_id: S002
+compiler_id: P1++
+annotation: ~
+time_in: "2022-06-10 14:44:25"
+time_out: "2022-06-10 14:44:32"
+veredict: AC
+veredict_info: ~
+title: "Dist\xE0ncia entre dos punts"
+...

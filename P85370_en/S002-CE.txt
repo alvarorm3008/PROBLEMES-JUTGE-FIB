@@ -1,0 +1,11 @@
+---
+problem_id: P85370_en
+submission_id: S002
+compiler_id: P1++
+annotation: ~
+time_in: "2022-02-28 12:20:52"
+time_out: "2022-02-28 12:20:57"
+veredict: CE
+veredict_info: ~
+title: Interest (1)
+...

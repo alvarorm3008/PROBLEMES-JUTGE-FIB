@@ -1,0 +1,11 @@
+---
+problem_id: X59091_en
+submission_id: S001
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-10-15 16:32:06"
+time_out: "2021-10-15 16:32:14"
+veredict: WA
+veredict_info: ~
+title: Rectangles (2)
+...

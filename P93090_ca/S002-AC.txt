@@ -1,0 +1,11 @@
+---
+problem_id: P93090_ca
+submission_id: S002
+compiler_id: P1++
+annotation: ~
+time_in: "2022-06-10 14:47:26"
+time_out: "2022-06-10 14:47:34"
+veredict: AC
+veredict_info: ~
+title: F008B. Suma de fraccions
+...

@@ -1,0 +1,11 @@
+---
+problem_id: P18660_ca
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2022-01-08 16:30:25"
+time_out: "2022-01-08 16:30:33"
+veredict: AC
+veredict_info: ~
+title: Sopa de lletres
+...

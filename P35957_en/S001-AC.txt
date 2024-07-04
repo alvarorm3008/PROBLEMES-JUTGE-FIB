@@ -1,0 +1,11 @@
+---
+problem_id: P35957_en
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2021-11-16 16:08:57"
+time_out: "2021-11-16 16:09:06"
+veredict: AC
+veredict_info: ~
+title: Middle digits
+...

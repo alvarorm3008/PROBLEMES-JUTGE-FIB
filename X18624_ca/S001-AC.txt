@@ -1,0 +1,11 @@
+---
+problem_id: X18624_ca
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2023-05-29 18:35:35"
+time_out: "2023-05-29 18:35:59"
+veredict: AC
+veredict_info: ~
+title: Runes
+...
