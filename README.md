@@ -18,19 +18,25 @@ This repository serves as a portfolio of algorithmic thinking, covering topics f
 The problems are organized by complexity and topic, reflecting the rigorous Computer Science curriculum at FIB:
 
 ### 🔹 1. Advanced Data Structures & Algorithms (EDA)
-*Focus on Graph Theory, Maps, and Optimization.*
+
+_Focus on Graph Theory, Maps, and Optimization._
+
 - **Graph Algorithms:** BFS (Breadth-First Search), DFS (Depth-First Search), Dijkstra, Topological Sort.
 - **Data Structures:** Priority Queues (Heaps), BST (Binary Search Trees), Hash Maps (STL maps/sets).
 - **Divide & Conquer:** MergeSort, QuickSort logic.
 
 ### 🔹 2. Modular Programming & Recursion (PRO2)
-*Focus on clean code, recursion, and abstract data types.*
+
+_Focus on clean code, recursion, and abstract data types._
+
 - **Recursion:** Backtracking solutions, recursive mathematical sequences.
 - **Backtracking:** Solving constraint satisfaction problems (N-Queens, Subsets).
 - **Modular Design:** Separation of interface (`.hh`) and implementation (`.cc`).
 
 ### 🔹 3. Fundamentals of Programming (PRO1)
-*The building blocks of logical thinking.*
+
+_The building blocks of logical thinking._
+
 - **Iterative Logic:** Complex loops, sequence handling.
 - **Vectors & Matrices:** Multi-dimensional array manipulation.
 - **Basic Algorithms:** Searching (Linear/Binary) and Sorting (Selection/Insertion).
@@ -40,6 +46,7 @@ The problems are organized by complexity and topic, reflecting the rigorous Comp
 ## 🧠 Key Algorithmic Concepts Demonstrated
 
 ### 🕸️ Graph Theory
+
 Implementation of traversal algorithms to solve connectivity problems, shortest paths, and cycle detection.
 
 ```cpp
@@ -65,3 +72,4 @@ These solutions are intended for educational review and portfolio purposes. If y
 Author: Alvaro Rodriguez
 
 FIB - Universitat Politècnica de Catalunya
+```
