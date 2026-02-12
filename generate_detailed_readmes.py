@@ -1,6 +1,6 @@
 import os
 import re
-
+#
 # 1. Configuración de Categorías Principales y sus Subtipos (Keywords)
 CONFIG = {
     "Advanced_Algorithms_Graphs": {
