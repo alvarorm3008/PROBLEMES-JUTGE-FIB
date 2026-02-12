@@ -1,6 +1,6 @@
 import os
 import shutil
-#
+##
 # Definim les carpetes de destí
 CATEGORIES = {
     "Advanced_Algorithms_Graphs": [],

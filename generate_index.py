@@ -1,5 +1,5 @@
 import os
-#
+##
 # Configuración: Nombre de carpeta -> Título y Descripción para su README interno
 CATEGORY_INFO = {
     "Advanced_Algorithms_Graphs": {
