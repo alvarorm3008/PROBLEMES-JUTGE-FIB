@@ -49,7 +49,7 @@ _The building blocks of logical thinking._
 
 Implementation of traversal algorithms to solve connectivity problems, shortest paths, and cycle detection.
 
-```cpp
+````cpp
 // Example: Graph Traversal concept
 void dfs(int u, vector<bool>& vis, const vector<vector<int>>& adj) {
     vis[u] = true;
@@ -57,19 +57,27 @@ void dfs(int u, vector<bool>& vis, const vector<vector<int>>& adj) {
         if (!vis[v]) dfs(v, vis, adj);
     }
 }
-⚡ Dynamic Programming & Greedy
+### ⚡ Dynamic Programming & Greedy
 Optimization problems solved by breaking them down into simpler subproblems (Memoization) or making locally optimal choices.
 
-🚀 How to Compile (C++)
+---
+
+## 🚀 How to Compile (C++)
+
 Most solutions are written in standard C++11/C++17.
 
-Bash
+```bash
 g++ -O2 -Wall -std=c++11 solution.cc -o solution
 ./solution < input.txt
-⚠️ Academic Integrity Disclaimer
+````
+
+---
+
+## ⚠️ Academic Integrity Disclaimer
+
 These solutions are intended for educational review and portfolio purposes. If you are currently a student at FIB, please solve the problems yourself before consulting this repository to strictly adhere to the university's academic regulations.
 
-Author: Alvaro Rodriguez
+---
 
-FIB - Universitat Politècnica de Catalunya
-```
+**Author:** Alvaro Rodriguez
+_FIB - Universitat Politècnica de Catalunya_
